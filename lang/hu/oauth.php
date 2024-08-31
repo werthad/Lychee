@@ -3,10 +3,10 @@
 /** @noinspection SpellCheckingInspection */
 
 return [
-	'NOT_AVAILABLE' => 'Oauth is not available.',
-	'SET_UP_CREDENTIALS' => 'Set up the credentials in your .env',
-	'SET_UP_OAUTH' => 'Set up Oauth authentication',
-	'SET_UP' => 'Set up %s',
-	'TOKEN_REGISTERED' => '%s token registered.',
-	'RESET' => 'reset',
+	'NOT_AVAILABLE' => 'Oauth nem elérhető.',
+	'SET_UP_CREDENTIALS' => 'Hitelesítő adataid beállítása .env',
+	'SET_UP_OAUTH' => 'Oauth bejelentkezás beállítása',
+	'SET_UP' => 'Beállítás %s',
+	'TOKEN_REGISTERED' => '%s token regisztrálva.',
+	'RESET' => 'Reszet',
 ];
